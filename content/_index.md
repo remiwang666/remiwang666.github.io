@@ -168,4 +168,16 @@ sections:
     design:
       columns: '2'
       view: citation
+
+
+  - block: markdown
+    id: skills
+    content:
+      title: 技能
+      filters:
+        folders:
+          - skills
+      text: Add your Section 2 content here...
+
+      
 ---

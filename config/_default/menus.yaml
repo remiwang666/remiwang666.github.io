@@ -19,9 +19,9 @@ main:
   - name: 科研成果
     url: '#featured'
     weight: 50
-  # - name: Contact
-  #   url: '#contact'
-  #   weight: 60
+  - name: 技能
+    url: '#skills'
+    weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
