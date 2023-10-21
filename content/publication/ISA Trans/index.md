@@ -5,7 +5,7 @@ authors:
 - Liang Han
 - Xiaoduo Li
 - Zhang Ren
-date: "2023-09-01T00:00:00Z"
+date: "2023-07-01T00:00:00Z"
 # doi: "https://doi.org/10.1007/978-981-19-3998-3_45"
 
 # Schedule page publish date (NOT publication's date).
@@ -36,7 +36,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://www.bilibili.com/video/BV1XG4y1k7MX'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
