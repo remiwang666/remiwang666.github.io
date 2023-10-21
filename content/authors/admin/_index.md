@@ -38,13 +38,13 @@ education:
   courses:
     - course: 硕士（系统工程）
       institution: 北京航空航天大学
-      year: 2021 - 至今
+      year: 2022 - 至今
     - course: 硕士（通用工程师）
       institution: 巴黎萨克雷大学（巴黎中央理工-高等电力学院）
       year: 2020 - 2022
     - course: 本科（信息与计算科学）
       institution: 北京航空航天大学
-      year: 2017 - 2021
+      year: 2017 - 2020
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -119,7 +119,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-* 你好，我是王越。
-* 我是北京航空航天大学中法工程师学院/国际通用工程学院的三年级硕士研究生。我的研究方向是多智能体系统弹性控制及深度强化学习，导师为韩亮副教授（任章教授团队）。
+您好！我是一名北京航空航天大学的硕士研究生，师从韩亮['韩亮'](https://shi.buaa.edu.cn/lianghan)副教授。我的研究包括网络攻击下的多智能体协同控制问题，以及人工智能在机器人规划控制过程中的应用。
 {style="text-align: justify;"}
