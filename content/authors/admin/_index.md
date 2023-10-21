@@ -28,13 +28,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-兴趣爱好:
+interests:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
 
 # Education to show in About widget
-教育经历:
+education:
   courses:
     # - course: PhD in Artificial Intelligence
     #   institution: Stanford University
