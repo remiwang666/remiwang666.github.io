@@ -1,16 +1,16 @@
 ---
-title: 智能驾驶算法研发实习
-subtitle: 理想汽车
+title: 面向无人车的多物体跟踪功能开发
+subtitle: TwinswHeel 法国物流机器人企业
 
 # Summary for listings and search engines
-summary: <b>理想汽车</b> <br> 
-        为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法，在nuPlan数据集上进行算法验证
+summary: <b>TwinswHeel 法国物流机器人企业</b> <br> 
+        该项目开发了基于UKF及社会力等技术的多物体跟踪与预测算法，扩展了原有的障碍物静态感知功能
 
 # # Link this post with a project
 # projects: []
 
 # Date published
-date: 2023-10-01
+date: 2022-03-01
 
 # Is this an unpublished draft?
 # draft: false
@@ -31,6 +31,5 @@ image:
 
 ---
 
-* **文献调研**：进行大模型和端到端学习文献的调研，为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法。
-* **算法开发**：针对nuplan数据集，复现端到端学习SOTA算法，开发测试及可视化工具，设计并实现新的智能算法。
-* **工作成果**：对nuPlan挑战赛冠军算法PDM-Hybrid进行改进，提升开环分数约1.5，提升开闭环综合分数约0.6。
+* **算法开发**：开发了基于无迹卡尔曼滤波、社会力等技术的多物体跟踪与预测算法，并支持无人车的碰撞概率预估
+* **沟通管理**：作为项目负责人，使用全英语/法语与企业及组员沟通，负责任务分配及算法整合
