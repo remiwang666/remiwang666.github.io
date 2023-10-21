@@ -177,8 +177,9 @@ sections:
       filters:
         folders:
           - skills
-      # text: Add your Section 2 content here...
+      text: aaaa
     design:
       columns: '2'
+      view: showcase
       
 ---
