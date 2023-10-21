@@ -22,12 +22,7 @@ publication_types: ["paper-conference"]
 publication: "Proceedings of the 2021 5th Chinese Conference on Swarm Intelligence and Cooperative Control"
 publication_short: "CCSICC 2021"
 
-abstract: In this paper, the resilient time-varying formation control for second-order discrete-time multi-agent systems (DMASs) under commu-
-nication link attacks and actuator faults is investigated. The number or proportion of edge attacks around each agent, including deception at-
-tacks and denial-of-service (DOS) attacks, is bounded. A discrete-time distributed formation protocol based on trim of extreme values and fault
-estimation and compensation is given. Using robust graph properties and discrete stability theory, sufficient conditions for the given DMASs
-to realize the desired formation with bounded error are derived. Numerical simulation examples are applied to illustrate the effectiveness of the
-resilient formation strategy.
+abstract: In this paper, the resilient time-varying formation control for second-order discrete-time multi-agent systems (DMASs) under communication link attacks and actuator faults is investigated. The number or proportion of edge attacks around each agent, including deception attacks and denial-of-service (DOS) attacks, is bounded. A discrete-time distributed formation protocol based on trim of extreme values and fault estimation and compensation is given. Using robust graph properties and discrete stability theory, sufficient conditions for the given DMASs to realize the desired formation with bounded error are derived. Numerical simulation examples are applied to illustrate the effectiveness of the resilient formation strategy.
 
 # Summary. An optional shortened abstract.
 summary: 垃圾文章
