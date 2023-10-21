@@ -70,15 +70,23 @@ sections:
           date_start: '2023-07-21'
           date_end: ''
           description: |2-
-              为自动驾驶中感知、预测、规划等任务预研端到端的智能算法
+              为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法
         - title: 硕士研究生
           company: 北京航空航天大学
           company_url: ''
           company_logo: buaa
           location: 北京
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2022-09-01'
+          date_end: '2024-06-01'
+          description: 硕士研究题目：网络攻击下的多无人机协同编队追击方法研究
+        - title: 本科生
+          company: 北京航空航天大学
+          company_url: ''
+          company_logo: buaa
+          location: 北京
+          date_start: '2017-09-01'
+          date_end: '2020-06-01'
+          description: GPA：3.83 / 4.00，排名：2 / 102，多次获国家奖学金，主修数学物理与控制理论（法语授课）
     design:
       columns: '2'
   - block: accomplishments
