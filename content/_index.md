@@ -160,7 +160,7 @@ sections:
 
   - block: collection
     content:
-      title: Recent Publications
+      title: 科研成果
       filters:
         folders:
           - publication

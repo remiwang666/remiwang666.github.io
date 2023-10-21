@@ -1,12 +1,12 @@
 ---
-title: "Resilient Consensus for Discrete-Time Multi-Agent Systems with Dynamic Leader and Tolerance to Node Failure"
+title: "Event-Triggered Formation Control with Obstacle Avoidance for Multi-Agent Systems Applied to Multi-UAV Formation Flying"
 authors:
-- Yue Wang*
 - Liang Han
+- Yue Wang*
+- Ziwei Yan
 - Xiaoduo Li
-- Pengkun Hao
 - Zhang Ren
-date: "2023-07-01T00:00:00Z"
+date: "2022-06-01T00:00:00Z"
 # doi: "https://doi.org/10.1007/978-981-19-3998-3_45"
 
 # Schedule page publish date (NOT publication's date).
@@ -18,9 +18,10 @@ date: "2023-07-01T00:00:00Z"
 # publication_types: ["EI会议论文"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "IEEE Transactions on Cybernetics（在投，IF: 11.8）"
+publication_short: "*IEEE Transactions on Intelligent Vehicles*（在投，IF: 8.2）"
 
-abstract: 本文研究了存在恶意节点、机动性领导者和通信时延的一阶及二阶离散时间多智能体系统的弹性一致性跟踪问题。首先基于传统鲁棒拓扑概念，为一阶多智能体系统设计了弹性控制器，推导出了实现有界误差一致的条件。接下来，由于推得的误差界随着系统规模以阶乘速度增加，我们提出了一种新的拓扑结构并对控制器进行改进，将误差界增长速度减小至线性。进一步，以前述结果为基础，设计了一种基于领导者状态估计器的控制架构来解决二阶多智能体系统的弹性编队跟踪控制问题。我们搭建了基于无人车、无人机、自建地面站的实验平台，通过实物实验验证了控制算法的有效性及工程可行性。
+abstract: 本文研究了一般离散时间多智能体系统（MAS）在通信约束下的时变编队控制问题，旨在控制一群智能体保持所需的队形，同时在空间约束的场景中避开障碍物。 我们引入事件触发机制有效降低了系统通信频率，并将人工势场函数融入控制器中实现了编队避障。 结果被应用于解决多架无人机编队飞行的避障问题。首先，我们在ROS和Gazebo集成的3D可视化仿真平台上进行了物理仿真实验。然后，我们使用四旋翼飞行器在复杂的实验场景下结合运动捕捉系统进行了实际实验。实验结果验证了理论算法的有效性及可行性。
+
 # Summary. An optional shortened abstract.
 # summary: 垃圾文章
 
@@ -36,7 +37,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: 'https://www.bilibili.com/video/BV1kP411q7TF'
+url_video: 'https://www.bilibili.com/video/BV1ef4y1Z72K/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
