@@ -21,7 +21,7 @@ sections:
   #     columns: '1'
   - block: experience
     content:
-      title: 经历
+      title: 教育经历
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: 2006 Jan
