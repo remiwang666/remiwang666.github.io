@@ -177,7 +177,8 @@ sections:
       filters:
         folders:
           - skills
-      text: Add your Section 2 content here...
-
+      # text: Add your Section 2 content here...
+    design:
+      columns: '2'
       
 ---
