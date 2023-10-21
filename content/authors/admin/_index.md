@@ -29,9 +29,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-  - 无人机
-  - Computational Linguistics
-  - Information Retrieval
+  - 无人机集群控制
+  - 人工智能的机器人应用
+  - 网络攻击下的多智能体协同
 
 # Education to show in About widget
 education:
