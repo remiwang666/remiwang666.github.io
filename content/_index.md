@@ -71,6 +71,7 @@ sections:
                         主修数学物理与控制理论（法语授课）
     design:
       columns: '2'
+      
   - block: collection
     id: posts
     content:
@@ -98,6 +99,7 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
