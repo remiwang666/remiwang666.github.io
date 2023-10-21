@@ -121,7 +121,7 @@ sections:
   - block: collection
     id: projects
     content:
-      title: Projects
+      title: 项目经历
       filters:
         folders:
           - project
