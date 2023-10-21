@@ -113,5 +113,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-您好！我是北京航空航天大学的一名硕士研究生，师从[韩亮](https://shi.buaa.edu.cn/lianghan)副教授。我的研究包括网络攻击下的多智能体协同控制问题，以及人工智能在机器人规划控制过程中的应用。
+您好！我是北京航空航天大学的一名硕士研究生，师从[韩亮](https://shi.buaa.edu.cn/lianghan)副教授，团队负责人是[任章](https://baike.baidu.com/item/%E4%BB%BB%E7%AB%A0/718875)教授。我的研究包括网络攻击下的多智能体协同控制问题，以及人工智能在机器人规划控制过程中的应用。
 {style="text-align: justify;"}
