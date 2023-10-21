@@ -50,6 +50,8 @@ print('hello')
 
 <img src="../images/DOS编队.gif" width="55%" />
 
+<img src="../images/DOS架构.png" width="55%" />
+
 ## Overview
 
 1. The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site
