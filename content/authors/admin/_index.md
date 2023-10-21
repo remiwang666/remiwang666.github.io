@@ -36,9 +36,9 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Education to show in About widget
 教育经历:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
     - course: 硕士（通用工程师）
       institution: 巴黎萨克雷大学（巴黎中央理工-高等电力学院）
       year: 2020 - 2022
