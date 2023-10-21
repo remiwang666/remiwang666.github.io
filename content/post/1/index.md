@@ -3,7 +3,8 @@ title: 面向机动目标的多无人机自适应编队跟踪控制方法研究
 subtitle: 国家自然科学基金项目
 
 # Summary for listings and search engines
-summary: 国家自然科学基金项目:本研究针对DDoS攻击、执行器故障、异步通信综合约束下的多无人机编队跟踪控制问题，设计了分层控制策略并通过物理仿真及实物实验验证了算法的有效性及可行性
+summary: <b>国家自然科学基金项目</ b> <br> 
+        本研究针对DDoS攻击、执行器故障、异步通信综合约束下的多无人机编队跟踪控制问题，设计了分层控制策略并通过物理仿真及实物实验验证了算法的有效性及可行性
 
 # # Link this post with a project
 # projects: []
