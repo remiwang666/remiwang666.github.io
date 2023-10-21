@@ -1,18 +1,18 @@
 ---
-title: Welcome to Wowchemy, the website builder for Hugo
-subtitle: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+title: 面向机动目标的多无人机自适应编队跟踪控制方法研究
+subtitle: 国家自然科学基金
 
 # Summary for listings and search engines
-summary: Welcome 👋 We know that first impressions are important, so we've populated your new site with some initial content to help you get familiar with everything in no time.
+summary: 国家自然科学基金
 
-# Link this post with a project
-projects: []
+# # Link this post with a project
+# projects: []
 
-# Date published
-date: '2020-12-13T00:00:00Z'
+# # Date published
+# date: '2020-12-13T00:00:00Z'
 
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
+# # Date updated
+# lastmod: '2020-12-13T00:00:00Z'
 
 # Is this an unpublished draft?
 draft: false
@@ -22,6 +22,7 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+<img src="../images/DOS编队.gif" width="55%" />
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''

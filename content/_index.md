@@ -74,7 +74,7 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
+      title: 科研经历
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
