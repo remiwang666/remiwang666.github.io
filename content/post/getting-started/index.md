@@ -29,28 +29,23 @@ image:
   placement: 2
   preview_only: false
 
-authors:
-  - admin
-  - 吳恩達
+# authors:
+#   - Yue Wang
+#   - 吳恩達
 
-tags:
-  - Academic
-  - 开源
+# tags:
+#   - Academic
+#   - 开源
 
-categories:
-  - Demo
-  - 教程
+# categories:
+#   - Demo
+#   - 教程
 ---
 
-```python
-import libr
-print('hello')
-```
 
+<!-- <img src="../images/DOS编队.gif" width="55%" />
 
-<img src="../images/DOS编队.gif" width="55%" />
-
-<img src="../images/DOS架构.png" width="55%" />
+<img src="../images/DOS架构.png" width="55%" /> -->
 
 ## Overview
 
