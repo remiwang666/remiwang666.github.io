@@ -20,8 +20,7 @@ date: 2023-06-01
 
 # Show this page in the Featured widget?
 # featured: false
-
-# url_video: 'https://www.bilibili.com/video/BV1XG4y1k7MX'
+url_video: 'https://www.bilibili.com/video/BV1kP411q7TF'
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
