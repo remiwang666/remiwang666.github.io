@@ -16,10 +16,10 @@ date: 2022-09-01
 # lastmod: '2019.09 - 2022.09'
 
 # Is this an unpublished draft?
-draft: false
+# draft: false
 
 # Show this page in the Featured widget?
-featured: false
+# featured: false
 
 # url_video: 'https://www.bilibili.com/video/BV1XG4y1k7MX'
 
