@@ -65,7 +65,7 @@ sections:
         - title: 智能驾驶算法研发实习
           company: 理想汽车
           company_url: ''
-          company_logo: 
+          company_logo: li
           location: 北京
           date_start: '2023-07-21'
           date_end: ''
