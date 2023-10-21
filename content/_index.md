@@ -147,13 +147,12 @@ sections:
       flip_alt_rows: false
 
   - block: collection
+    id: featured
     content:
-      id: featured
       title: 科研成果
       filters:
         folders:
           - publication
-        exclude_featured: true
     design:
       columns: '1'
       view: citation
