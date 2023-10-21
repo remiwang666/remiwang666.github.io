@@ -52,31 +52,27 @@ sections:
   #     columns: '1'
   - block: experience
     content:
-      title: Experience
+      title: 经历
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 2006 Jan
       # Experiences.
       #   Add/remove as many `experience` items below as you like.
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: 智能驾驶算法研发实习
+          company: 理想汽车
           company_url: ''
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: 北京
+          date_start: '2023-07-21'
           date_end: ''
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+              为自动驾驶中感知、预测、规划等任务预研端到端智能算法
+        - title: 硕士研究生
+          company: 北京航空航天大学
           company_url: ''
           company_logo: org-x
           location: California
