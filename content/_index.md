@@ -74,7 +74,7 @@ sections:
         - title: 硕士研究生
           company: 北京航空航天大学
           company_url: ''
-          company_logo: org-gc
+          company_logo: buaa
           location: 北京
           date_start: '2016-01-01'
           date_end: '2020-12-31'
