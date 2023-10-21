@@ -55,7 +55,7 @@ sections:
           location: 巴黎
           date_start: '2020-09-01'
           date_end: '2022-06-01'
-          description: GPA：4.25 / 4.33，排名：前5% / 900 \
+          description: GPA：4.25 / 4.33，排名：前5% / 900 <br />
                         年均32门课，涵盖数学、控制、机器人、人工智能等众多领域
         - title: 本科生
           company: 北京航空航天大学
@@ -64,7 +64,7 @@ sections:
           location: 北京
           date_start: '2017-09-01'
           date_end: '2020-06-01'
-          description: GPA：3.83 / 4.00，排名：2 / 102，多次获国家奖学金 \
+          description: GPA：3.83 / 4.00，排名：2 / 102，多次获国家奖学金 <br />
                         主修数学物理与控制理论（法语授课）
     design:
       columns: '2'
@@ -109,13 +109,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      # buttons:
+      #   - name: All
+      #     tag: '*'
+      #   - name: Deep Learning
+      #     tag: Deep Learning
+      #   - name: Other
+      #     tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
