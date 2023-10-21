@@ -22,7 +22,7 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-<img src="../images/DOS架构.png" width="55%" />
+
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
   focal_point: ''
@@ -46,6 +46,9 @@ categories:
 import libr
 print('hello')
 ```
+
+
+<img src="../images/DOS编队.gif" width="55%" />
 
 ## Overview
 
