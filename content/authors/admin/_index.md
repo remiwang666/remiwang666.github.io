@@ -28,23 +28,23 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
+兴趣爱好:
   - Artificial Intelligence
   - Computational Linguistics
   - Information Retrieval
 
 # Education to show in About widget
-education:
+教育经历:
   courses:
-    # - course: PhD in Artificial Intelligence
-    #   institution: Stanford University
-    #   year: 2012
-    - course: 通用工程师
+    - course: PhD in Artificial Intelligence
+      institution: Stanford University
+      year: 2012
+    - course: 硕士（通用工程师）
       institution: 巴黎萨克雷大学（巴黎中央理工-高等电力学院）
-      year: 2022
-    - course: 信息与计算科学
+      year: 2020 - 2022
+    - course: 本科（信息与计算科学）
       institution: 北京航空航天大学
-      year: 2020
+      year: 2017 - 2021
 
 # Skills
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
