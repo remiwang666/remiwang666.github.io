@@ -1,7 +1,7 @@
 ---
 title: "Resilient time-varying formation control of second-order discrete-time multi-agent systems with actuator faults and attacks on communication link"
 authors:
-- Yue Wang
+- <b> Yue Wang </b>
 - Liang Han
 - Xiaoduo Li
 - Xiwang Dong
@@ -16,24 +16,23 @@ doi: "https://doi.org/10.1007/978-981-19-3998-3_45"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["paper-conference"]
+# publication_types: ["EI会议论文"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Proceedings of the 2021 5th Chinese Conference on Swarm Intelligence and Cooperative Control"
-publication_short: "CCSICC 2021"
+publication_short: "CCSICC 2021（EI索引）"
 
-abstract: In this paper, the resilient time-varying formation control for second-order discrete-time multi-agent systems (DMASs) under communication link attacks and actuator faults is investigated. The number or proportion of edge attacks around each agent, including deception attacks and denial-of-service (DOS) attacks, is bounded. A discrete-time distributed formation protocol based on trim of extreme values and fault estimation and compensation is given. Using robust graph properties and discrete stability theory, sufficient conditions for the given DMASs to realize the desired formation with bounded error are derived. Numerical simulation examples are applied to illustrate the effectiveness of the resilient formation strategy.
+abstract: 本文研究了网络攻击及执行器故障下二阶离散多智能体系统（DMASs）的无领导着时变编队控制。网络攻击针对的是机间的通信链路，其包括欺骗攻击和拒绝服务攻击，设每个智能体周围受到攻击的链路数量或比例有界。我们提出了一种基于极值修剪和故障估计与补偿的分布式编队协议。借助鲁棒图性质和离散稳定性理论，我们推导出了DMASs以有界误差实现期望编队的充分条件。数值仿真示例证实了弹性控制策略的有效性。
+
 
 # Summary. An optional shortened abstract.
-summary: 垃圾文章
+# summary: 垃圾文章
 
 tags:
 - Source Themes
 featured: false
 
 links:
-- name: Custom Link
-  url: https://doi.org/10.1007/978-981-19-3998-3_45
 url_pdf: ''
 url_code: ''
 url_dataset: ''
