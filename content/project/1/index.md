@@ -3,7 +3,8 @@ title: 智能驾驶算法研发实习
 subtitle: 理想汽车
 
 # Summary for listings and search engines
-summary: 为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法，在nuPlan数据集上进行算法验证
+summary: <b>理想汽车</b> <br> 
+        为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法，在nuPlan数据集上进行算法验证
 
 # # Link this post with a project
 # projects: []
