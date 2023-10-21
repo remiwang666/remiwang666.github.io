@@ -31,15 +31,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: 智能驾驶算法研发实习
-          company: 理想汽车
-          company_url: ''
-          company_logo: li2
-          location: 北京
-          date_start: '2023-07-21'
-          date_end: ''
-          description: |2-
-              为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法
+        # - title: 智能驾驶算法研发实习
+        #   company: 理想汽车
+        #   company_url: ''
+        #   company_logo: li2
+        #   location: 北京
+        #   date_start: '2023-07-21'
+        #   date_end: ''
+        #   description: |2-
+        #       为自动驾驶中的感知、预测、规划等任务预研端到端的智能算法
 
         - title: 硕士研究生
           company: 北京航空航天大学
@@ -48,7 +48,7 @@ sections:
           location: 北京
           date_start: '2022-09-01'
           date_end: '2024-06-01'
-          description: 硕士研究题目：网络攻击下的多无人机协同编队追击方法研究
+          description: 硕士毕设研究题目：网络攻击下的多无人机协同编队追击方法研究
 
         - title: 通用工程师
           company: 巴黎萨克雷大学（巴黎中央理工-高等电力学院）
