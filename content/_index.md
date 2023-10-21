@@ -79,7 +79,7 @@ sections:
           date_start: '2022-09-01'
           date_end: '2024-06-01'
           description: 硕士研究题目：网络攻击下的多无人机协同编队追击方法研究
-        - title: 通用工程师（联合培养）
+        - title: 通用工程师
           company: 巴黎萨克雷大学（巴黎中央理工-高等电力学院）
           company_url: ''
           company_logo: cs
