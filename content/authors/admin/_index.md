@@ -21,7 +21,8 @@ role: 硕士研究生
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: 北京航空航天大学
+  - name: 北航中法工程师学院
+    url: http://ecpkn.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
