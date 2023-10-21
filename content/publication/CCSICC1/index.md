@@ -1,6 +1,12 @@
 ---
 title: "Resilient time-varying formation control of second-order discrete-time multi-agent systems with actuator faults and attacks on communication link"
-authors: <b>Yue Wang</b>，Liang Han，Xiaoduo Li，Xiwang Dong，Qingdong Li，Zhang Ren
+authors:
+- **Yue Wang**
+- Liang Han
+- Xiaoduo Li
+- Xiwang Dong
+- Qingdong Li
+- Zhang Ren
 date: "2022-07-29T00:00:00Z"
 doi: "https://doi.org/10.1007/978-981-19-3998-3_45"
 
