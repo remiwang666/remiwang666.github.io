@@ -8,7 +8,7 @@ authors:
 - Qingdong Li
 - Zhang Ren
 date: "2022-07-29T00:00:00Z"
-# doi: "https://doi.org/10.1007/978-981-19-3998-3_45"
+doi: "https://doi.org/10.1007/978-981-19-3998-3_45"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
