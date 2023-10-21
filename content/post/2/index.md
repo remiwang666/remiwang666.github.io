@@ -10,7 +10,7 @@ summary: <b>科技创新2030-“新一代人工智能”重大项目</b> <br>
 # projects: []
 
 # Date published
-date: '2022-09T00:00:00Z'
+date: 2022-09-01
 
 # # Date updated
 # lastmod: '2019.09 - 2022.09'

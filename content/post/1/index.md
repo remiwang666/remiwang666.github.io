@@ -10,10 +10,7 @@ summary: <b>国家自然科学基金项目</b> <br>
 # projects: []
 
 # Date published
-date: '2020-12-13T00:00:00Z'
-
-# Date updated
-lastmod: '2020-12-13T00:00:00Z'
+date: 2022-01-01
 
 # Is this an unpublished draft?
 draft: false
