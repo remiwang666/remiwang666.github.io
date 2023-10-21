@@ -20,7 +20,7 @@ date: "2023-04-01T00:00:00Z"
 # Publication name and optional abbreviated publication name.
 # publication: "ISA Transactions"
 # publication: "Proceedings of the 2023 7th Chinese Conference on Swarm Intelligence and Cooperative Control"
-publication_short: "CCSICC 2023（EI检索）"
+publication_short: "*CCSICC 2023*（EI检索）"
 
 abstract: 本文研究了含有恶意节点、损毁节点、动态领导者的离散时间一阶多智能体系统的弹性一致性问题。我们首先提出了一种基于极值剔除的弹性控制器来抵消恶意节点的影响，并给出了以有界误差实现一致性的充分条件，特别是拓扑的鲁棒度条件。为了处理节点损毁造成的拓扑鲁棒度下降问题，我们引入了一种新的鲁棒图结构并给出了相应的构造方法，使其在有限节点损毁的情况下依然可以维护原有的鲁棒度。与经典控制器的对比仿真实验验证了理论结果的有效性。
 

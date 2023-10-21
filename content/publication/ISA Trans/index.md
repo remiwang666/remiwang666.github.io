@@ -17,7 +17,7 @@ date: "2023-07-02T00:00:00Z"
 # publication_types: ["EI会议论文"]
 
 # Publication name and optional abbreviated publication name.
-publication_short: "ISA Transactions（小修，IF: 7.3）"
+publication_short: "*ISA Transactions*（小修，IF: 7.3）"
 
 abstract: 本文研究了分布式拒绝服务（DDoS）攻击和执行器故障下的多智能体系统（MAS）时变编队跟踪问题。 为了应对网络层和物理层的混合威胁，引入了基于估计器的容错分层控制方案，该算法适用于P2P通信模式。 推导出了以有界误差实现编队跟踪的充分条件，并进一步分析了周期性通信以及持续时间/频率受限攻击的情况。我们首先进行了基于 ROS 和 Gazebo 的对比物理仿真实验。之后，我们搭建了包含DJI Tello四旋翼无人机和自研地面站的实验平台并进行了实物编队实验，证明了算法的有效性及工程可行性。
 
