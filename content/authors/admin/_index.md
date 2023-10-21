@@ -2,16 +2,10 @@
 # Display name
 title: 王越
 
-# # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Yue
 last_name: Wang
-
-# Status emoji
-# status:
-#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true

@@ -3,7 +3,7 @@ title: 面向机动目标的多无人机自适应编队跟踪控制方法研究
 subtitle: 国家自然科学基金项目
 
 # Summary for listings and search engines
-summary: 本研究针对DDoS攻击、执行器故障、异步通信综合约束下的多无人机编队跟踪控制问题，设计了基于目标状态估计器的自适应控制策略，分析了闭环系统稳定性，并通过物理仿真实验和实物实验对算法进行了验证
+summary: 本研究针对DDoS攻击、执行器故障、异步通信综合约束下的多无人机编队跟踪控制问题，设计了分层控制策略并分析了闭环系统稳定性，通过物理仿真实验和实物实验验证了算法的有效性及可行性
 
 # # Link this post with a project
 # projects: []
@@ -24,24 +24,13 @@ featured: false
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: ''
   focal_point: ''
   placement: 2
   preview_only: false
 
-# authors:
-#   - Yue Wang
-#   - 吳恩達
-
-# tags:
-#   - Academic
-#   - 开源
-
-# categories:
-#   - Demo
-#   - 教程
 ---
 
-<img src="../images/DOS架构.png" width="55%" /> -->
+<img src="../post_image/DOS架构.png" width="55%" /> 
 
 为了应对网络层和物理层的混合威胁，引入了基于目标状态估计器的自适应容错分层控制方案，该方案适用于各信道异步通信的P2P网络架构。理论推导除了以有界误差实现编队跟踪的充分条件，并对时间触发通信和持续时间/频率受限的DDoS攻击情况进行了进一步讨论。为了验证算法的有效性，首先进行基于 ROS 和 Gazebo 的物理仿真对比实验；进一步，搭建了基于DJI Tello四旋翼飞行器和自建地面站的实验平台，通过实物无人机编队实验验证了算法的工程可行性。[[视频]](https://www.bilibili.com/video/BV1XG4y1k7MX)
