@@ -70,12 +70,12 @@ sections:
           date_start: '2023-07-21'
           date_end: ''
           description: |2-
-              为自动驾驶中感知、预测、规划等任务预研端到端智能算法
+              为自动驾驶中感知、预测、规划等任务预研端到端的智能算法
         - title: 硕士研究生
           company: 北京航空航天大学
           company_url: ''
-          company_logo: org-x
-          location: California
+          company_logo: <img src="../images/北航logo.jpg" width="30%" />
+          location: 北京
           date_start: '2016-01-01'
           date_end: '2020-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
@@ -87,7 +87,7 @@ sections:
       title: 'Accomplish&shy;ments'
       subtitle:
       # Date format: https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
+      date_format: 2006 Jan
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
