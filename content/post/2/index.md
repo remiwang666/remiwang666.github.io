@@ -10,10 +10,10 @@ summary: <b>科技创新2030-“新一代人工智能”重大项目</b> <br>
 # projects: []
 
 # Date published
-date: '2019.09 - 2022.09'
+date: '2022-09T00:00:00Z'
 
 # # Date updated
-lastmod: '2019.09 - 2022.09'
+# lastmod: '2019.09 - 2022.09'
 
 # Is this an unpublished draft?
 draft: false
