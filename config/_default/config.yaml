@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Yue WANG # Website name
-baseURL: 'https://www.x-starlab.com/wangyue/' # Website URL
-# baseURL: 'https://remiwang666.github.io/' # Website URL
+# baseURL: 'https://www.x-starlab.com/wangyue/' # Website URL
+baseURL: 'https://remiwang666.github.io/' # Website URL
 ############################
 ## LANGUAGE
 ############################

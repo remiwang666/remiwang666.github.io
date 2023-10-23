@@ -7,21 +7,18 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: 科研经历
-    url: '#posts'
-    weight: 20
-  - name: 实习经历
-    url: '#projects'
-    weight: 30
-  # - name: Talks
-  #   url: '#talks'
-  #   weight: 40
   - name: 科研成果
     url: '#featured'
-    weight: 50
+    weight: 20
   - name: 技能
     url: '#skills'
-    weight: 60
+    weight: 25
+  - name: 科研经历
+    url: '#posts'
+    weight: 30
+  - name: 实习经历
+    url: '#projects'
+    weight: 40
   - name: 荣誉
     url: '#honors'
     weight: 70
